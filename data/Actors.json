@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"PrincesaNoiva","characterIndex":4,"characterName":"Princesa","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"PrincesaCasual","traits":[],"initialLevel":22,"maxLevel":99,"name":"Giovanna Haydar","nickname":"Rainha","note":"","profile":""},
+{"id":2,"battlerName":"Eu","characterIndex":4,"characterName":"Gabriel","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"GabrielBadBoy","traits":[],"initialLevel":22,"maxLevel":99,"name":"Gabriel Haydar","nickname":"Panda","note":"","profile":""},
+{"id":3,"battlerName":"Package1_4","characterIndex":5,"characterName":"dogs_bandana","classId":2,"equips":[0,0,0,0,5],"faceIndex":0,"faceName":"Zoboo2703","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zoboomafoo","nickname":"Zoboo","note":"","profile":""},
+{"id":4,"battlerName":"Adara2","characterIndex":0,"characterName":"Adara2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Adara2","traits":[],"initialLevel":9,"maxLevel":99,"name":"Adara Haydar","nickname":"Adara","note":"","profile":""}
+]
